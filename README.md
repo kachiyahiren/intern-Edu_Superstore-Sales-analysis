@@ -62,7 +62,6 @@ This dataset provides real-world retail sales information suitable for data clea
 - Matplotlib
 - Seaborn
 - Power BI
-- GitHub
 
 ---
 
@@ -122,15 +121,7 @@ The following analyses were performed:
 
 # 📈 Power BI Dashboard
 
-> **Add your dashboard screenshot after exporting it from Power BI.**
-
-Example:
-
-```markdown
 ![Power BI Dashboard](dashboard.png)
-```
-
-After exporting your dashboard as **dashboard.png**, it will appear here automatically.
 
 ---
 
@@ -162,42 +153,6 @@ After exporting your dashboard as **dashboard.png**, it will appear here automat
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-# 🚀 How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/kachiyahiren/intern-Edu_Superstore-Sales-analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Jupyter Notebook
-
-Open:
-
-```
-Sales_Analysis.ipynb
-```
-
-### Open Power BI Dashboard
-
-Open:
-
-```
-Sales Analysis Dashboard.pbix
-```
-
-using **Microsoft Power BI Desktop**.
-
----
 
 # 📚 Conclusion
 
