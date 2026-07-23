@@ -143,7 +143,7 @@ This project demonstrates the complete data analytics workflow—from data clean
 
 # 👨‍💻
 
-**Hiren Kachiya**
+**Kachiya Hiren**
 
 Data Analytics Internship Project
 
