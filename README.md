@@ -141,7 +141,7 @@ This project demonstrates the complete data analytics workflow—from data clean
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻
 
 **Hiren Kachiya**
 
