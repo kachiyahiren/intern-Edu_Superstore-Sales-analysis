@@ -135,25 +135,6 @@ The following analyses were performed:
 
 ---
 
-# 📁 Repository Structure
-
-```
-├── Sales_Analysis.ipynb
-├── Sales Analysis Dashboard.pbix
-├── superstore.csv
-├── cleaned_superstore.csv
-├── Business_Insights_Report.docx
-├── Data_Cleaning_Report.docx
-├── monthly_sales_trend.png
-├── sales_by_category.png
-├── sales_by_region.png
-├── top5_products.png
-├── lowest5_products.png
-├── top10_customers.png
-├── README.md
-└── requirements.txt
-```
-
 # 📚 Conclusion
 
 This project demonstrates the complete data analytics workflow—from data cleaning and exploratory data analysis to dashboard creation and business insight generation. The interactive Power BI dashboard enables users to monitor sales performance and support data-driven decision-making.
